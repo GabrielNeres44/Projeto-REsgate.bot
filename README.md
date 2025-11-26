@@ -115,41 +115,6 @@ Tratamento de erros (ex.: email inválido)
 
 Interface simplificada via Telegram
 
-✅ Requisitos do Projeto
-Requisitos Técnicos
-
-Chatbot implementado no n8n
-
-Conexão com Telegram via BotFather
-
-Integração com Google Sheets e Gmail
-
-Uso de Agente de IA com memória
-
-Fluxos condicionais e menus interativos
-
-Registros automatizados dos dados da denúncia
-
-Requisitos Funcionais
-
-Iniciar conversa com /start
-
-Perguntar ao usuário sobre iniciar denúncia
-
-Coletar informações essenciais do caso
-
-Validar email
-
-Permitir adicionar mais dados
-
-Finalizar denúncia com registro e email
-
-Respostas automáticas em todas as etapas
-
-Geração de ID único
-
-Armazenamento seguro e organizado no Sheets
-
 🐶 Objetivo Final
 
 Criar uma ferramenta acessível, rápida e inteligente para promover o bem-estar animal, permitindo que denúncias sejam feitas e processadas com eficiência, conectando a sociedade a ONGs e órgãos responsáveis.
