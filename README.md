@@ -1,3 +1,4 @@
+<img src="REsgate.bot.png" alt="Ícone do projeto">
 REsgate.Bot — Chatbot Inteligente para Denúncias de Animais
 
 O REsgate.Bot é um chatbot desenvolvido com n8n, Telegram, IA generativa e Google Cloud, criado para facilitar o reporte de animais perdidos, feridos ou em situação de risco.
