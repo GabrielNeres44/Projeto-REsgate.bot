@@ -13,9 +13,9 @@ O propósito é oferecer uma solução simples e eficiente que apoia o resgate, 
 
 👥 Equipe
 
-Gabriel Neres de Araújo
+[Gabriel Neres de Araújo](https://github.com/GabrielNeres44)
 
-Cauê Fernando de Medeiros Reis
+[Cauê Reis](https://github.com/caue-r)
 
 🧩 Tecnologias Utilizadas
 
